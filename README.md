@@ -12,4 +12,4 @@ Transformo bases de dados em dashboards e indicadores claros para apoiar a tomad
 
 * **Business Intelligence:** Power BI, Power Query (ETL) e DAX.
 * **Banco de Dados:** SQL, PL/pgSQL e modelagem relacional.
-* **Análise de Dados:** Python (Pandas) para limpeza e tratamento de dados.
+* **Análise de Dados:** Excel (tratamento de planilhas e indicadores) e fundamentos de Python.
